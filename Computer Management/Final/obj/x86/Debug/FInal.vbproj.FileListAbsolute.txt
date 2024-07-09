@@ -1,0 +1,69 @@
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\bin\Debug\FInal.exe
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\bin\Debug\FInal.pdb
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\bin\Debug\FInal.xml
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\obj\x86\Debug\FInal.Form1.resources
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\obj\x86\Debug\FInal.Resources.resources
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\obj\x86\Debug\FInal.vbproj.GenerateResource.Cache
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\obj\x86\Debug\FInal.exe
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\obj\x86\Debug\FInal.xml
+C:\Users\jayry\AppData\Local\Temporary Projects\FInal\obj\x86\Debug\FInal.pdb
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\Final.exe
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\Final.xml
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\Final.pdb
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\bin\Debug\Final.exe
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\bin\Debug\Final.pdb
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\bin\Debug\Final.xml
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Resources.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\Final.vbproj.GenerateResource.Cache
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Admin.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Login.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.User.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Items.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Borrow.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Register.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Form1.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.User_Info.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.BandR.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Item_Det.resources
+C:\Users\jayry\Documents\Visual Studio 2010\Projects\Final\Final\obj\x86\Debug\FInal.Returned.resources
+D:\Jay\Final\obj\x86\Debug\Final.exe
+D:\Jay\Final\obj\x86\Debug\Final.xml
+D:\Jay\Final\obj\x86\Debug\Final.pdb
+E:\Final\Final\obj\x86\Debug\Final.exe
+E:\Final\Final\obj\x86\Debug\Final.xml
+E:\Final\Final\obj\x86\Debug\Final.pdb
+E:\Final\Final\bin\Debug\Final.exe
+E:\Final\Final\bin\Debug\Final.pdb
+E:\Final\Final\bin\Debug\Final.xml
+E:\Final\Final\obj\x86\Debug\FInal.Borrow.resources
+E:\Final\Final\obj\x86\Debug\FInal.Items.resources
+E:\Final\Final\obj\x86\Debug\FInal.Item_Det.resources
+E:\Final\Final\obj\x86\Debug\FInal.Login.resources
+E:\Final\Final\obj\x86\Debug\FInal.Resources.resources
+E:\Final\Final\obj\x86\Debug\FInal.Admin.resources
+E:\Final\Final\obj\x86\Debug\FInal.Register.resources
+E:\Final\Final\obj\x86\Debug\FInal.BandR.resources
+E:\Final\Final\obj\x86\Debug\FInal.Returned.resources
+E:\Final\Final\obj\x86\Debug\FInal.Form1.resources
+E:\Final\Final\obj\x86\Debug\FInal.User.resources
+E:\Final\Final\obj\x86\Debug\FInal.User_Info.resources
+E:\Final\Final\obj\x86\Debug\Final.vbproj.GenerateResource.Cache
+D:\Final\Final\obj\x86\Debug\Final.exe
+D:\Final\Final\obj\x86\Debug\Final.xml
+D:\Final\Final\obj\x86\Debug\Final.pdb
+D:\Final\Final\bin\Debug\Final.exe
+D:\Final\Final\bin\Debug\Final.pdb
+D:\Final\Final\bin\Debug\Final.xml
+D:\Final\Final\obj\x86\Debug\FInal.Borrow.resources
+D:\Final\Final\obj\x86\Debug\FInal.Items.resources
+D:\Final\Final\obj\x86\Debug\FInal.Item_Det.resources
+D:\Final\Final\obj\x86\Debug\FInal.Login.resources
+D:\Final\Final\obj\x86\Debug\FInal.Resources.resources
+D:\Final\Final\obj\x86\Debug\FInal.Admin.resources
+D:\Final\Final\obj\x86\Debug\FInal.Register.resources
+D:\Final\Final\obj\x86\Debug\FInal.BandR.resources
+D:\Final\Final\obj\x86\Debug\FInal.Returned.resources
+D:\Final\Final\obj\x86\Debug\FInal.Form1.resources
+D:\Final\Final\obj\x86\Debug\FInal.User.resources
+D:\Final\Final\obj\x86\Debug\FInal.User_Info.resources
+D:\Final\Final\obj\x86\Debug\Final.vbproj.GenerateResource.Cache
